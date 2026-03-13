@@ -1,0 +1,40 @@
+/*
+Theme Name: Twenty Twenty-Five Child
+Template: twentytwentyfive
+Version: 1.0
+Description: Child theme for assignment
+Author: Faariha Tippu
+*/
+
+body {
+  background-color: #f7f3ee;
+  color: #2f2a26;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #4a2e1a;
+}
+
+a {
+  color: #6b3f22;
+}
+
+.wp-block-site-title a {
+  color: #4a2e1a;
+  text-decoration: none;
+}
+
+.wp-block-button__link {
+  background-color: #6b3f22;
+  border-radius: 8px;
+  color: white;
+}
+
+.wp-block-post-title a {
+  color: #7a4e2d;
+  text-decoration: none;
+}
+
