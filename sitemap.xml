@@ -32,6 +32,41 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/study-planner/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/ceramic-coffee-study-mug/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/led-desk-study-lamp/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/noise-cancelling-study-headphones/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/study-notebook/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
